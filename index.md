@@ -1,13 +1,11 @@
 ---
 layout: home
-title: "Minh Hoang Nguyen"
+title: Minh Hoang Nguyen
 ---
 
-
-<!-- HTML version: -->
 <div style="float:left; margin-right:1.5em; margin-bottom:1em;">
   <img 
-    src="/assets/images/avatar.jpeg" 
+    src="{{ '/assets/images/avatar.jpeg' | relative_url }}" 
     alt="Henry (Minh Hoang Nguyen)" 
     style="width:150px; height:150px; object-fit:cover; border-radius:50%;" 
   />
