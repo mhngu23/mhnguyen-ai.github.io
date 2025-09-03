@@ -15,7 +15,7 @@ title: Minh Hoang Nguyen
 
 A passionate researcher in **Artificial Intelligence** and **Machine Learning**, with a particular focus on **Reinforcement Learning**.
 
-My research focuses on advancing the frontiers of artificial intelligence, specifically on **decision-making agents**, to solve real-world problems and improve quality of life. I am driven by a commitment to impactful innovation, aiming to build intelligent systems that contribute to smarter, more sustainable communities. With a strong foundation in both theoretical and applied AI, I seek to bridge research and practice to create meaningful technological solutions that empower society.
+My research focuses on advancing the frontiers of artificial intelligence, specifically on **decision-making agents and sequential data**, to solve real-world problems and improve quality of life. I am driven by a commitment to impactful innovation, aiming to build intelligent systems that contribute to smarter, more sustainable communities. With a strong foundation in both theoretical and applied AI, I seek to bridge research and practice to create meaningful technological solutions that empower society.
 
 ## 🎓 Academic Background
 - **PhD Student**, [A2i2 Lab](https://www.deakin.edu.au/a2i2), Deakin University, Australia  
@@ -32,9 +32,19 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 ---
 
 ## 📖 PhD Research Journey
+- **ICDM 2025**  
+  *Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting*  
+
+  **Authors**: Hung Le, Sherif Abbas, Minh Hoang Nguyen, Van Dai Do, Huu Hiep Nguyen, Dung Nguyen
+  
+- **ECAI 2025**  
+  *[Cross-Domain Offline Reinforcement Learning with Nearest-Neighbor Guided Diffusion Model](https://arxiv.org/pdf/2507.20499?)*  
+
+  **Authors**: Linh Le Pham Van, Minh Hoang Nguyen, Duc Kieu, Hung Le, Hung The Tran, Sunil Gupta
 
 - **ECML/PKDD 2025**  
-  *Hybrid Cross-domain Robust Reinforcement Learning*  
+  *[Hybrid Cross-domain Robust Reinforcement Learning](https://arxiv.org/pdf/2505.23003?)*  
+
   **Authors**: Linh Le Pham Van, **Minh Hoang Nguyen**, Hung Le, Hung Tran The, Sunil Gupta
 
 - **IJCAI 2025**  
