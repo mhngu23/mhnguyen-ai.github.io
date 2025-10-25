@@ -33,7 +33,7 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 
 ## 📖 PhD Research Journey
 - **ICDM 2025**  
-  *Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting*  
+  *[Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting](https://arxiv.org/pdf/2510.01206?)*  
 
   **Authors**: Hung Le, Sherif Abbas, Minh Hoang Nguyen, Van Dai Do, Huu Hiep Nguyen, Dung Nguyen
   
