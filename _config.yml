@@ -1,9 +1,6 @@
 title: Minh Hoang Nguyen
 description: Researcher in AI focusing on Reinforcement Learning and intelligent agents
 theme: minima
-author:
-  name: Minh Hoang Nguyen
-  email: minhhoangnguyen0911@gmail.com
 
 header_pages:
   - experience.md
