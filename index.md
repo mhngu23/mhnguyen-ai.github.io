@@ -26,8 +26,11 @@ title: Minh Hoang Nguyen
 My research focuses on advancing the frontiers of artificial intelligence, specifically on **decision-making agents and sequential data**, to solve real-world problems and improve quality of life. I am driven by a commitment to impactful innovation, aiming to build intelligent systems that contribute to smarter, more sustainable communities.
 
 ## 🎓 Academic Background
-- **PhD Student**, [A2i2 Lab](https://www.deakin.edu.au/a2i2), Deakin University, Australia
-- **Master of Artificial Intelligence**, RMIT University (GPA: 3.9/4.0)
+- **PhD in Computer Science**, A²I² Institute, Deakin University, Australia (2023–2025)
+- **Master of Artificial Intelligence**, RMIT University (GPA: 3.95/4.0)
+- **Bachelor (Hons) in Civil Engineering**, Monash University, Australia
+
+<a href="{{ '/cv/' | relative_url }}">Full CV →</a>
 
 ---
 
