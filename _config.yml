@@ -4,3 +4,9 @@ theme: minima
 author:
   name: Minh Hoang Nguyen
   email: minhhoangnguyen0911@gmail.com
+
+header_pages:
+  - experience.md
+  - publications.md
+  - awards.md
+  - contact.md
