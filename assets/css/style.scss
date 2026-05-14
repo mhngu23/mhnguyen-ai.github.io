@@ -1,0 +1,95 @@
+---
+---
+
+@import "minima";
+
+/* ── Color palette ── */
+$navy:  #1e3a6b;
+$blue:  #2563eb;
+$light: #e8f0fe;
+
+/* ── Header & nav ── */
+.site-header {
+  border-top: 4px solid $navy;
+}
+
+.site-title, .site-title:visited {
+  color: $navy;
+  font-weight: 700;
+}
+
+.site-nav .page-link {
+  color: $navy;
+  font-weight: 500;
+  &:hover { color: $blue; }
+}
+
+/* ── Typography ── */
+h1, h2, h3 { color: $navy; }
+
+a {
+  color: $blue;
+  &:hover { color: $navy; }
+}
+
+/* ── Hero section ── */
+.hero {
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+  margin-bottom: 2em;
+}
+
+.hero-photo img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid $blue;
+}
+
+.hero-bio h2 { margin-top: 0; }
+
+.tagline {
+  color: $navy;
+  font-weight: 600;
+  font-size: 1em;
+  margin: 0.25em 0 0.75em;
+}
+
+/* ── Skill badges ── */
+.badge {
+  display: inline-block;
+  padding: 3px 12px;
+  margin: 3px 3px 3px 0;
+  background: $light;
+  color: $navy;
+  border-radius: 12px;
+  font-size: 0.82em;
+  font-weight: 600;
+}
+
+/* ── Recent publications ── */
+.recent-pub {
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #e8e8e8;
+  &:last-child { border-bottom: none; }
+}
+
+/* ── Collapsible abstracts ── */
+details {
+  margin-top: 0.4em;
+  padding: 0.5em 0.75em;
+  background: #f4f8ff;
+  border-left: 3px solid $blue;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.93em;
+}
+
+summary {
+  cursor: pointer;
+  color: $blue;
+  font-weight: 600;
+  &:hover { color: $navy; }
+}
