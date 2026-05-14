@@ -3,14 +3,14 @@ layout: page
 title: Minh Hoang Nguyen
 ---
 
-<div class="hero">
-  <div class="hero-photo">
-    <img src="{{ '/assets/images/avatar.jpeg' | relative_url }}" alt="Henry (Minh Hoang Nguyen)" />
+<div style="display:flex; align-items:flex-start; gap:2em; margin-bottom:2em;">
+  <div style="flex-shrink:0;">
+    <img src="{{ '/assets/images/avatar.jpeg' | relative_url }}" alt="Henry (Minh Hoang Nguyen)"
+      style="width:110px; height:110px; object-fit:cover; border-radius:50%; border:3px solid #2563eb;" />
   </div>
-  <div class="hero-bio">
-    <h2>👋 Hi, I'm <strong>Henry (@mhngu23)</strong></h2>
-    <p class="tagline">PhD Researcher &middot; Reinforcement Learning &middot; Deakin University</p>
-    <p>A passionate researcher in <strong>Artificial Intelligence</strong> and <strong>Machine Learning</strong>, with a particular focus on <strong>Reinforcement Learning</strong> and intelligent decision-making agents.</p>
+  <div>
+    <h2 style="margin-top:0;">👋 Hi, I'm <strong>Henry (@mhngu23)</strong></h2>
+    <p style="color:#1e3a6b; font-weight:600; margin:0.25em 0 0.75em;">PhD Researcher &middot; Reinforcement Learning &middot; Deakin University</p>
     <p>
       <span class="badge">Reinforcement Learning</span>
       <span class="badge">Time Series</span>
