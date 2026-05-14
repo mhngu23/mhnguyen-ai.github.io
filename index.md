@@ -40,21 +40,34 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 
 ---
 
+## 💼 Experience
+
+<div class="recent-pub">
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>Machine Learning (PhD) Engineer</strong> &mdash; Atlassian · Internship
+</div>
+<div class="recent-pub">
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>Research Assistant</strong> &mdash; Deakin University · Contract
+</div>
+<div class="recent-pub">
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>Python Developer</strong> &mdash; Hyperion Fintech AG · Freelance
+</div>
+
+<a href="{{ '/experience/' | relative_url }}">See details →</a>
+
+---
+
 ## 📖 Recent Publications
 
 <div class="recent-pub">
-  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>ICML 2026</strong> &mdash; <em>Reviving Error Correction in Modern Deep Time-Series Forecasting</em><br/>
-  <span style="margin-left:18px;">Minh Hoang Nguyen, Huu Hiep Nguyen, Dung Nguyen, Kien Do, Hung Le</span>
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>ICML 2026</strong> &mdash; <em>Reviving Error Correction in Modern Deep Time-Series Forecasting</em>
 </div>
 
 <div class="recent-pub">
-  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>AISTATS 2026</strong> &mdash; <em>Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting</em><br/>
-  <span style="margin-left:18px;">Huu Hiep Nguyen, Minh Hoang Nguyen, Dung Nguyen, Hung Le</span>
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>AISTATS 2026</strong> &mdash; <em>Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting</em>
 </div>
 
 <div class="recent-pub">
-  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>IJCAI 2025</strong> &mdash; <a href="https://arxiv.org/pdf/2505.09114"><em>Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer</em></a><br/>
-  <span style="margin-left:18px;">Minh Hoang Nguyen, Linh Le Pham Van, Thommen George Karimpanal, Sunil Gupta, Hung Le</span>
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>IJCAI 2025</strong> &mdash; <a href="https://arxiv.org/pdf/2505.09114"><em>Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer</em></a>
 </div>
 
 <a href="{{ '/publications/' | relative_url }}">View all publications →</a>
