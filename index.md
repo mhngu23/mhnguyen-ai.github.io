@@ -30,7 +30,7 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 - **Master of Artificial Intelligence**, RMIT University (GPA: 3.95/4.0)
 - **Bachelor (Hons) in Civil Engineering**, Monash University, Australia
 
-<a href="{{ '/cv/' | relative_url }}">Full CV →</a>
+<a href="{{ '/education/' | relative_url }}">See details →</a>
 
 ---
 

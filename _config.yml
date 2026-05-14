@@ -3,8 +3,9 @@ description: Researcher in AI focusing on Reinforcement Learning and intelligent
 theme: minima
 
 header_pages:
-  - cv.md
+  - education.md
   - experience.md
+  - volunteer.md
   - publications.md
   - awards.md
   - contact.md
