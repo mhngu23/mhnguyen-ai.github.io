@@ -9,7 +9,7 @@ title: Minh Hoang Nguyen
       style="width:110px; height:110px; object-fit:cover; border-radius:50%; border:3px solid #2563eb;" />
   </div>
   <div>
-    <h2 style="margin-top:0;">👋 Hi, I'm <strong>Henry (@mhngu23)</strong></h2>
+    <h2 style="margin-top:0;">👋 Hi, I'm <strong>Minh Hoang (Henry) Nguyen</strong></h2>
     <p style="color:#1e3a6b; font-weight:600; margin:0.25em 0 0.75em;">AI Researcher</p>
     <p>
       <span class="badge">Reinforcement Learning</span>
