@@ -1,0 +1,40 @@
+---
+layout: page
+---
+
+<p class="demo-meta">
+  {% if page.date %}<span>{{ page.date | date: "%b %Y" }}</span>{% endif %}
+  {% if page.venue %}<span>·</span><span>{{ page.venue }}</span>{% endif %}
+</p>
+
+{% if page.tags %}
+<p>
+  {% for tag in page.tags %}<span class="badge">{{ tag }}</span>{% endfor %}
+</p>
+{% endif %}
+
+{% if page.paper or page.code %}
+<p class="demo-links">
+  {% if page.paper %}<a href="{{ page.paper }}">📄 Paper</a>{% endif %}
+  {% if page.paper and page.code %} &nbsp;·&nbsp; {% endif %}
+  {% if page.code %}<a href="{{ page.code }}">💻 Code</a>{% endif %}
+</p>
+{% endif %}
+
+{% if page.youtube %}
+<div class="video-wrap">
+  <iframe src="https://www.youtube.com/embed/{{ page.youtube }}" title="{{ page.title }}"
+    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen></iframe>
+</div>
+{% elsif page.video %}
+<video class="demo-video" controls {% if page.poster %}poster="{{ page.poster | relative_url }}"{% endif %}>
+  <source src="{{ page.video | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+{% endif %}
+
+{{ content }}
+
+<hr />
+<a href="{{ '/demos/' | relative_url }}">← Back to all demos</a>

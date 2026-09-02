@@ -2,10 +2,24 @@ title: Minh Hoang Nguyen
 description: Researcher in AI focusing on Reinforcement Learning and intelligent agents
 theme: minima
 
+collections:
+  demos:
+    output: true
+    permalink: /demos/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: demos
+    values:
+      layout: demo
+
 header_pages:
   - education.md
   - experience.md
-  - volunteer.md
   - publications.md
+  - talks.md
+  - demos.md
   - awards.md
+  - service.md
   - contact.md

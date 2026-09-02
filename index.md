@@ -77,4 +77,19 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 
 ---
 
+## 🎬 Demos
+
+Short blog posts with video walkthroughs of my projects and papers.
+
+{% assign recent_demos = site.demos | sort: "date" | reverse %}
+{% for demo in recent_demos limit: 3 %}
+<div class="recent-pub">
+  <span style="color:#2563eb; margin-right:6px;">▸</span><a href="{{ demo.url | relative_url }}"><strong>{{ demo.title }}</strong></a>{% if demo.venue %} &mdash; <em>{{ demo.venue }}</em>{% endif %}
+</div>
+{% endfor %}
+
+<a href="{{ '/demos/' | relative_url }}">View all demos →</a>
+
+---
+
 🤝 I'm always open to **collaboration** and **new opportunities** in AI/ML research and applied projects. Feel free to reach out!

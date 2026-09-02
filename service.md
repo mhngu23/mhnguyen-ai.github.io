@@ -1,8 +1,18 @@
 ---
 layout: page
-title: Volunteer
-permalink: /volunteer/
+title: Professional Service
+permalink: /service/
 ---
+
+## 📝 Reviewing
+
+**Reviewer** · NeurIPS 2026  
+Conference on Neural Information Processing Systems
+- Served as a programme committee reviewer for the main track.
+
+---
+
+## 🤝 Volunteering
 
 **Student Representative** · April 2025 – Present  
 Deakin University · Geelong, Australia
