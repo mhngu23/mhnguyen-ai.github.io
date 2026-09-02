@@ -1,7 +1,6 @@
 ---
 title: "From Egocentric Video to Robot Demonstrations"
 summary: "Turning ordinary head-mounted-camera footage of a person doing a task into the same task performed by a robot, in the same real scene."
-tags: [Robotics, Vision-Language-Action, Egocentric Video]
 ---
 
 We turn ordinary egocentric video of a person doing a task into the same task performed
