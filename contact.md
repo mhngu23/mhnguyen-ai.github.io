@@ -10,3 +10,4 @@ I'm always open to **collaboration** and **new opportunities** in AI/ML research
 - 📌 **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=bU_mv-8AAAAJ&hl=en)
 - 🔗 **LinkedIn**: [View Profile](https://www.linkedin.com/in/minh-hoang-nguyen-521500175/)
 - 🧬 **ORCID**: [0000-0002-8134-3341](https://orcid.org/0000-0002-8134-3341)
+- 🤗 **Hugging Face**: [bi199797](https://huggingface.co/bi199797)
