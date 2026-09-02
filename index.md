@@ -65,11 +65,11 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 ## 📖 Recent Publications
 
 <div class="recent-pub">
-  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>ICML 2026</strong> &mdash; <em>Reviving Error Correction in Modern Deep Time-Series Forecasting</em>
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>ICML 2026</strong> &mdash; <a href="https://arxiv.org/abs/2605.21088"><em>Reviving Error Correction in Modern Deep Time-Series Forecasting</em></a>
 </div>
 
 <div class="recent-pub">
-  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>AISTATS 2026</strong> &mdash; <em>Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting</em>
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>AISTATS 2026</strong> &mdash; <a href="https://arxiv.org/abs/2602.01588"><em>Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting</em></a>
 </div>
 
 <div class="recent-pub">
