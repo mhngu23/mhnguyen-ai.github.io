@@ -46,6 +46,9 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 ## 💼 Experience
 
 <div class="recent-pub">
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>AI Researcher / Management Trainee</strong> &mdash; VinRobotics · Full-time
+</div>
+<div class="recent-pub">
   <span style="color:#2563eb; margin-right:6px;">▸</span><strong>Machine Learning (PhD) Engineer</strong> &mdash; Atlassian · Internship
 </div>
 <div class="recent-pub">
