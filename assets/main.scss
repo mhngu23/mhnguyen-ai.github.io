@@ -29,7 +29,9 @@ h1, h2, h3 { color: $navy; }
 
 a {
   color: $blue;
-  &:hover { color: $navy; }
+  /* Minima darkens a:visited; keep visited links the same blue. */
+  &:visited { color: $blue; }
+  &:hover, &:visited:hover { color: $navy; }
 }
 
 /* ── Hero section ── */
