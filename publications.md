@@ -9,7 +9,7 @@ permalink: /publications/
 ### 2026
 
 - **ICML 2026**  
-  *[Reviving Error Correction in Modern Deep Time-Series Forecasting](https://arxiv.org/abs/2605.21088)*  
+  *[Reviving Error Correction in Modern Deep Time-Series Forecasting](https://arxiv.org/pdf/2605.21088)*  
   **Authors**: **Minh Hoang Nguyen**, Dai Do, Huu Hiep Nguyen, Dung Nguyen, Kien Do, Hung Le  
   <details>
   <summary>Abstract</summary>
@@ -17,7 +17,7 @@ permalink: /publications/
   </details>
 
 - **AISTATS 2026**  
-  *[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588)*  
+  *[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/pdf/2602.01588)*  
   **Authors**: Huu Hiep Nguyen, **Minh Hoang Nguyen**, Dung Nguyen, Hung Le  
   <details>
   <summary>Abstract</summary>
@@ -27,7 +27,7 @@ permalink: /publications/
 ### 2025
 
 - **ICDM 2025**  
-  *[Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting](https://arxiv.org/pdf/2510.01206?)*  
+  *[Accelerating Long-Term Molecular Dynamics with Physics-Informed Time-Series Forecasting](https://arxiv.org/pdf/2510.01206)*  
   **Authors**: Hung Le, Sherif Abbas, **Minh Hoang Nguyen**, Van Dai Do, Huu Hiep Nguyen, Dung Nguyen  
   <details>
   <summary>Abstract</summary>
@@ -35,7 +35,7 @@ permalink: /publications/
   </details>
 
 - **ECAI 2025**  
-  *[Cross-Domain Offline Reinforcement Learning with Nearest-Neighbor Guided Diffusion Model](https://arxiv.org/pdf/2507.20499?)*  
+  *[Cross-Domain Offline Reinforcement Learning with Nearest-Neighbor Guided Diffusion Model](https://arxiv.org/pdf/2507.20499)*  
   **Authors**: Linh Le Pham Van, **Minh Hoang Nguyen**, Duc Kieu, Hung Le, Hung The Tran, Sunil Gupta  
   <details>
   <summary>Abstract</summary>
@@ -43,7 +43,7 @@ permalink: /publications/
   </details>
 
 - **ECML/PKDD 2025**  
-  *[Hybrid Cross-domain Robust Reinforcement Learning](https://arxiv.org/pdf/2505.23003?)*  
+  *[Hybrid Cross-domain Robust Reinforcement Learning](https://arxiv.org/pdf/2505.23003)*  
   **Authors**: Linh Le Pham Van, **Minh Hoang Nguyen**, Hung Le, Hung Tran The, Sunil Gupta  
   <details>
   <summary>Abstract</summary>
@@ -89,7 +89,7 @@ permalink: /publications/
 <p class="preprint-note">Under review / not yet peer-reviewed.</p>
 
 - **arXiv 2026 · 2607.24892**  
-  *[LLM as Forecasting Planner: Training-Free Text Conditioning for Time-Series Foundation Models](https://arxiv.org/abs/2607.24892)*  
+  *[LLM as Forecasting Planner: Training-Free Text Conditioning for Time-Series Foundation Models](https://arxiv.org/pdf/2607.24892)*  
   **Authors**: Huu Hiep Nguyen, Dung Nguyen, **Minh Hoang Nguyen**, Dai Do, Hung Le  
   <details>
   <summary>Abstract</summary>
@@ -97,7 +97,7 @@ permalink: /publications/
   </details>
 
 - **arXiv 2026 · 2607.19659**  
-  *[Expert-Guided Forecast Editing for Time-Series Foundation Models](https://arxiv.org/abs/2607.19659)*  
+  *[Expert-Guided Forecast Editing for Time-Series Foundation Models](https://arxiv.org/pdf/2607.19659)*  
   **Authors**: Hung Le, **Minh Hoang Nguyen**, Manh Nguyen, Huu Hiep Nguyen, Dai Do  
   <details>
   <summary>Abstract</summary>
@@ -105,7 +105,7 @@ permalink: /publications/
   </details>
 
 - **arXiv 2026 · 2606.25800**  
-  *[ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models](https://arxiv.org/abs/2606.25800)*  
+  *[ROAD-VLA: Robust Online Adaptation via Self-Distillation for Vision-Language-Action Models](https://arxiv.org/pdf/2606.25800)*  
   **Authors**: Kejing Wang, Toan Nguyen, **Minh Hoang Nguyen**, Simon Khan, Flora D. Salim  
   <details>
   <summary>Abstract</summary>
@@ -113,7 +113,7 @@ permalink: /publications/
   </details>
 
 - **arXiv 2026 · 2606.19413**  
-  *[Does Text Actually Help? Uncovering and Resolving Text Collapse in Multimodal Time Series Forecasting](https://arxiv.org/abs/2606.19413)*  
+  *[Does Text Actually Help? Uncovering and Resolving Text Collapse in Multimodal Time Series Forecasting](https://arxiv.org/pdf/2606.19413)*  
   **Authors**: Huu Hiep Nguyen, **Minh Hoang Nguyen**, Dung Nguyen, Hung Le  
   <details>
   <summary>Abstract</summary>
@@ -121,7 +121,7 @@ permalink: /publications/
   </details>
 
 - **arXiv 2026 · 2606.19412**  
-  *[Spectral Retrieval-Augmented Time-Series Forecasting](https://arxiv.org/abs/2606.19412)*  
+  *[Spectral Retrieval-Augmented Time-Series Forecasting](https://arxiv.org/pdf/2606.19412)*  
   **Authors**: Huu Hiep Nguyen, **Minh Hoang Nguyen**, Dung Nguyen, Hung Le  
   <details>
   <summary>Abstract</summary>
@@ -129,7 +129,7 @@ permalink: /publications/
   </details>
 
 - **arXiv 2025 · 2508.13721**  
-  *[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](https://arxiv.org/abs/2508.13721)*  
+  *[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](https://arxiv.org/pdf/2508.13721)*  
   **Authors**: **Minh Hoang Nguyen**, Van Dai Do, Dung Nguyen, Thin Nguyen, Hung Le  
   <details>
   <summary>Abstract</summary>
