@@ -12,7 +12,6 @@ Hanoi, Vietnam
 - Fine-tuning vision-language models (VLMs) for video captioning and timestamped event-boundary detection on manipulation data.
 - Building a retargeting and inpainting pipeline that composites a robot arm into human egocentric video, converting first-person demonstrations into robot-ready training data for the foundation model.
 
-
 ---
 
 ## Machine Learning (PhD) Engineer
