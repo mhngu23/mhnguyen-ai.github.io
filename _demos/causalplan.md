@@ -24,9 +24,8 @@ same Llama-3-8B backbone. The only difference is CausalPlan.
 - **Right** — the same LLM, planning on its own.
 
 The left panel shows each decision as it happens: every action proposed, how often it was
-proposed, and the action finally
-chosen. The moments marked ⚡ are causal structure overruling a confident but ill-timed
-suggestion.
+proposed, and the action finally chosen. The moments marked ⚡ are causal structure
+overruling a confident but ill-timed suggestion.
 
 <figure>
   <video class="demo-video" controls preload="metadata">

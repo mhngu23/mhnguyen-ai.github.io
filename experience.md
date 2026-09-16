@@ -9,9 +9,9 @@ permalink: /experience/
 Hanoi, Vietnam
 
 - Contributing to a vision-language-action (VLA) foundation model programme for robot manipulation.
-- Fine-tuning vision-language models (VLMs) for video captioning and timestamped event-boundary detection on manipulation data.
+<!-- - Fine-tuning vision-language models (VLMs) for video captioning and timestamped event-boundary detection on manipulation data.
 - Building a retargeting and inpainting pipeline that composites a robot arm into human egocentric video, converting first-person demonstrations into robot-ready training data for the foundation model.
-- Training and mentoring a group of 7 interns on data pipelines and VLM fine-tuning workflows.
+- Training and mentoring a group of 7 interns on data pipelines and VLM fine-tuning workflows. -->
 
 ---
 
