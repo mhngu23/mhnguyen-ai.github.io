@@ -11,7 +11,7 @@ Hanoi, Vietnam
 - Contributing to a vision-language-action (VLA) foundation model programme for robot manipulation.
 - Fine-tuning vision-language models (VLMs) for video captioning and timestamped event-boundary detection on manipulation data.
 - Building a retargeting and inpainting pipeline that composites a robot arm into human egocentric video, converting first-person demonstrations into robot-ready training data for the foundation model.
-<!-- - Training and mentoring a group of 7 interns on data pipelines and VLM fine-tuning workflows. -->
+
 
 ---
 
@@ -20,7 +20,7 @@ Hanoi, Vietnam
 Sydney, Australia, On-site
 
 - One of only two PhD interns selected for Atlassian's AI Research program in Australia; received a return offer for a Mid-level AI Engineer role (3–5 YOE equivalent).
-- Architected a 0→1 replacement of external LLM APIs with an in-house production system, mitigating ~$6M/year in operational costs while maintaining performance parity.
+- Architected a 0→1 replacement of external LLM APIs with an in-house production system.
 - Developed and fine-tuned large-scale LLMs using PyTorch and LLaMA-Factory; managed the full data lifecycle on Databricks.
 
 ---
