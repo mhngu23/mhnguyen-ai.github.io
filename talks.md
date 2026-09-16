@@ -26,7 +26,7 @@ permalink: /talks/
 
 - **Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer** · IJCAI 2025  
   Montréal, Canada · August 2025  
-  Oral/poster presentation of our counterfactual data-augmentation framework for Decision Transformers. The conference [keynote programme](https://2025.ijcai.org/invited-talks/) featured Turing Award laureate **Yoshua Bengio**, alongside Bernhard Schölkopf, Heng Ji and Luc De Raedt.  
+  Oral/poster presentation of our counterfactual data-augmentation framework for Decision Transformers. The conference [keynote programme](https://2025.ijcai.org/invited-talks/) featured keynotes by Prof. Yoshua Bengio, alongside Prof. Bernhard Schölkopf, Prof. Heng Ji and Prof. Luc De Raedt.  
   <a href="{{ '/publications/' | relative_url }}">See publication →</a>
 
 - **Variable-Agnostic Causal Exploration for Reinforcement Learning** · ECML/PKDD 2024  

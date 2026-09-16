@@ -1,6 +1,5 @@
 ---
 title: "From Egocentric Video to Robot Demonstrations"
-published: false   # hidden for now; set true (or delete this line) to publish
 summary: "Turning ordinary head-mounted-camera footage of a person doing a task into the same task performed by a robot, in the same real scene."
 ---
 
