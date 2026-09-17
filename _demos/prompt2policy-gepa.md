@@ -22,6 +22,10 @@ step that proposes the edits. No proprietary models.
 
 ## HalfCheetah, run forward
 
+The task, as given to the model in English:
+
+> *“Run forward at a steady moderate speed without flipping over.”*
+
 <div class="video-pair">
   <figure>
     <video class="demo-video" controls preload="metadata" muted loop>
@@ -43,6 +47,8 @@ the stock prompt managed 0.69 across its sessions, so what evolution bought ther
 reliability rather than a higher ceiling.
 
 ## Humanoid, walk upright
+
+> *“Walk forward keeping the torso perfectly upright with zero tilt.”*
 
 A 3D biped with 17 actuated joints and a 348-dimensional observation. Unlike the cheetah,
 it can fall over — and mostly does.

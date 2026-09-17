@@ -178,3 +178,14 @@ figure {
 @media screen and (max-width: 600px) {
   .video-pair { grid-template-columns: 1fr; }
 }
+
+blockquote {
+  color: $navy;
+  border-left: 4px solid $blue;
+  background: #f4f8ff;
+  padding: 0.6em 1em;
+  font-size: 1em;
+  letter-spacing: normal;
+  font-style: normal;
+  > :last-child { margin-bottom: 0; }
+}
