@@ -164,3 +164,17 @@ figure {
     margin-top: 0.5em;
   }
 }
+
+/* Side-by-side video comparison */
+.video-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  margin: 1.5em 0;
+  figure { margin: 0; }
+  .demo-video { margin-top: 0; margin-bottom: 0; }
+}
+
+@media screen and (max-width: 600px) {
+  .video-pair { grid-template-columns: 1fr; }
+}
