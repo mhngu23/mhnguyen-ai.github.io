@@ -15,6 +15,11 @@ model watches the rollout. Better prompts survive. Everything runs on one A100 w
 Qwen3-VL-8B-Instruct in every role: reward author, judge, video critic, and the reflection
 step that proposes the edits. No proprietary models.
 
+<figure>
+  <img src="{{ '/assets/images/prompt2policy-pipeline.png' | relative_url }}"
+       alt="One session: a task in English, the model writes a reward, PPO trains a policy, two judges score it, and GEPA rewrites the prompt from that feedback." />
+</figure>
+
 ## HalfCheetah, run forward
 
 <div class="video-pair">
