@@ -67,15 +67,15 @@ My research focuses on advancing the frontiers of artificial intelligence, speci
 ## 📖 Recent Publications
 
 <div class="recent-pub">
+  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>TMLR 2026</strong> &mdash; <a href="https://arxiv.org/pdf/2508.13721"><em>CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning</em></a>
+</div>
+
+<div class="recent-pub">
   <span style="color:#2563eb; margin-right:6px;">▸</span><strong>ICML 2026</strong> &mdash; <a href="https://arxiv.org/pdf/2605.21088"><em>Reviving Error Correction in Modern Deep Time-Series Forecasting</em></a>
 </div>
 
 <div class="recent-pub">
   <span style="color:#2563eb; margin-right:6px;">▸</span><strong>AISTATS 2026</strong> &mdash; <a href="https://arxiv.org/pdf/2602.01588"><em>Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting</em></a>
-</div>
-
-<div class="recent-pub">
-  <span style="color:#2563eb; margin-right:6px;">▸</span><strong>IJCAI 2025</strong> &mdash; <a href="https://arxiv.org/pdf/2505.09114"><em>Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer</em></a>
 </div>
 
 <a href="{{ '/publications/' | relative_url }}">View all publications →</a>
