@@ -8,6 +8,10 @@ permalink: /publications/
 
 ### 2026
 
+- **NeurIPS 2026**  
+  *[SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](https://openreview.net/pdf?id=DRNgEw9MBD)*  
+  **Authors**: Van Dai Do, Huu Hiep Nguyen, **Minh Hoang Nguyen**, Hung Le
+
 - **TMLR 2026**  
   *[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](https://arxiv.org/pdf/2508.13721)*  
   **Authors**: **Minh Hoang Nguyen**, Van Dai Do, Dung Nguyen, Thin Nguyen, Hung Le  
