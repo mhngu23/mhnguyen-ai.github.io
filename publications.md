@@ -10,7 +10,11 @@ permalink: /publications/
 
 - **NeurIPS 2026**  
   *[SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](https://openreview.net/pdf?id=DRNgEw9MBD)*  
-  **Authors**: Van Dai Do, Huu Hiep Nguyen, **Minh Hoang Nguyen**, Hung Le
+  **Authors**: Van Dai Do, Huu Hiep Nguyen, **Minh Hoang Nguyen**, Hung Le  
+  <details>
+  <summary>Abstract</summary>
+  Time series forecasting aims to predict future values from historical observations and auxiliary features. We propose SteerCast, a retrieval-based latent steering method that improves decoder-only forecaster at inference time, without updating its parameters. SteerCast constructs a database from the training set by storing a representation of each history window together with a steering vector computed in the forecaster's latent space, defined as the difference between representations induced by the ground-truth continuation and by the model's own prediction. At test time, SteerCast retrieves nearest neighbors for a query history, aggregates their steering vectors, and injects the resulting signal into the forecaster's hidden states at every step of autoregressive generation, guiding predictions toward trajectories consistent with similar training cases. Experiments across diverse multivariate benchmarks and multiple horizons show that SteerCast consistently improves forecasting accuracy over the fine-tuned backbone and retrieval-based baselines, while requiring no additional training beyond the original fine-tuning and using only the training set as a retrieval corpus.
+  </details>
 
 - **TMLR 2026**  
   *[CausalPlan: Empowering Efficient LLM Multi-Agent Collaboration Through Causality-Driven Planning](https://arxiv.org/pdf/2508.13721)*  
